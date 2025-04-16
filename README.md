@@ -68,7 +68,7 @@ Não é necessário instalar. Basta dar **duplo clique em `OcorrenciaRay.exe`** 
 
 Para dúvidas ou sugestões, entre em contato com a equipe da **Silva Ray**:
 
-- Site: [www.silvaraysoftware.com.br](https://www.silvaraysoftware.com.br)
+- Site (Em Breve): [www.silvaraysoftware.com.br](https://www.silvaraysoftware.com.br)
 
 
 ---
