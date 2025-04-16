@@ -1,0 +1,48 @@
+[
+    {
+        "funcionario_1": "Ueslen",
+        "funcionario_2": "Milena",
+        "data_hora": "16/04/2025 13:01",
+        "parametros_maquina": {
+            "gantry": "10",
+            "colimador": {
+                "X1": "10",
+                "X2": "52",
+                "Y1": "52",
+                "Y2": "52"
+            },
+            "mesa_vert": "10",
+            "mesa_lat": "1145",
+            "mesa_long": "45",
+            "mesa_angulo": "45"
+        },
+        "erro_principal": "GANTRY",
+        "observacao": "",
+        "descricao_ocorrencia": "hwaf",
+        "status_maquina": "PARADA",
+        "imagem_anexada": "C:/Users/uesle/Desktop/Imagem do WhatsApp de 2025-04-16 à(s) 12.52.27_52e8a9a5.jpg"
+    },
+    {
+        "funcionario_1": "Milena",
+        "funcionario_2": "Ueslen",
+        "data_hora": "16/04/2025 13:02",
+        "parametros_maquina": {
+            "gantry": "10",
+            "colimador": {
+                "X1": "15",
+                "X2": "20",
+                "Y1": "20",
+                "Y2": "15"
+            },
+            "mesa_vert": "10",
+            "mesa_lat": "10",
+            "mesa_long": "10",
+            "mesa_angulo": "10"
+        },
+        "erro_principal": "MLC",
+        "observacao": "",
+        "descricao_ocorrencia": "B31",
+        "status_maquina": "PARADA",
+        "imagem_anexada": ""
+    }
+]
