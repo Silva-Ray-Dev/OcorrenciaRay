@@ -65,6 +65,19 @@ Não é necessário instalar. Basta dar **duplo clique em `OcorrenciaRay.exe`** 
 
 ---
 
+## 🗃️ Arquivos de Registro
+
+Após baixar e executar o aplicativo **OcorrênciaRay**, uma pasta chamada `REGISTROS` será criada automaticamente. 
+
+Essa pasta contém:
+- `ocorrencias.json` → Arquivo onde as ocorrências são armazenadas.
+- `IMAGENS/` → Pasta com as imagens anexadas às ocorrências.
+
+> 🔒 **Atenção:** Esses arquivos são gerados apenas para armazenar os dados localmente.  
+Caso deseje limpar os registros ou recomeçar do zero, você pode excluir ambos sem comprometer o funcionamento do aplicativo.
+
+---
+
 ##  Contatos❓
 
 Para dúvidas ou sugestões, entre em contato com a equipe da **Silva Ray**:
