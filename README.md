@@ -18,13 +18,10 @@ Este é um sistema local desenvolvido pela **Silva Ray** para o registro de ocor
 
 ### 1. Download
 
-Baixe o sistema clicando no botão abaixo:
+Baixe o sistema clicando no botão abaixo (ou atravez dO Botao CODE-> local-> Donwload ZIP):
 
-> [**BAIXAR SISTEMA**](## 📥 Download do Aplicativo
+📥 [**BAIXAR SISTEMA**](https://github.com/Silva-Ray-Dev/OcorrenciaRay/archive/refs/heads/main.zip)
 
-Você pode baixar a versão mais recente do OcorrênciaRay diretamente aqui:
-
-🔗 [Clique para baixar o ZIP do repositório](https://github.com/Silva-Ray-Dev/OcorrenciaRay/archive/refs/heads/main.zip)
 
 
 Ou clone via Git:
