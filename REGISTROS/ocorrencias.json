@@ -1,0 +1,301 @@
+[
+    {
+        "funcionario_1": "ANDREIA MAXIMIANO",
+        "funcionario_2": "FERNANDA MARTINS",
+        "data_hora": "24/04/2025 12:56",
+        "parametros_maquina": {
+            "gantry": "181",
+            "colimador": {
+                "X1": "N",
+                "X2": "N",
+                "Y1": "N",
+                "Y2": "N"
+            },
+            "mesa_vert": "N",
+            "mesa_lat": "N",
+            "mesa_long": "N",
+            "mesa_angulo": "N"
+        },
+        "erro_principal": "MLC",
+        "observacao": "LAMINA",
+        "descricao_ocorrencia": "LAMINA TRAVOU EM 181",
+        "status_maquina": "EM FUNCIONAMENTO",
+        "imagem_anexada": ""
+    },
+    {
+        "funcionario_1": "MARILDA",
+        "funcionario_2": "RAFAEL",
+        "data_hora": "25/04/2025 08:40",
+        "parametros_maquina": {
+            "gantry": "270",
+            "colimador": {
+                "X1": "N",
+                "X2": "N",
+                "Y1": "N",
+                "Y2": "N"
+            },
+            "mesa_vert": "N",
+            "mesa_lat": "N",
+            "mesa_long": "N",
+            "mesa_angulo": "N"
+        },
+        "erro_principal": "GANTRY",
+        "observacao": "HWFA AO REALIZAR PORTAL",
+        "descricao_ocorrencia": "HWFA REALIZAR PORTAL",
+        "status_maquina": "EM FUNCIONAMENTO",
+        "imagem_anexada": ""
+    },
+    {
+        "funcionario_1": "MARILDA/FER/ANDREIA",
+        "funcionario_2": "FRNANDA",
+        "data_hora": "25/04/2025 10:44",
+        "parametros_maquina": {
+            "gantry": "N ",
+            "colimador": {
+                "X1": "N",
+                "X2": "N",
+                "Y1": "N",
+                "Y2": "N"
+            },
+            "mesa_vert": "N",
+            "mesa_lat": "N",
+            "mesa_long": "N",
+            "mesa_angulo": "N"
+        },
+        "erro_principal": "OUTROS (DESCREVA ABAIXO)",
+        "observacao": "CQ PACIENTE QUE VAI INICIAR A TARDE",
+        "descricao_ocorrencia": "SEM PACIENTES",
+        "status_maquina": "EM FUNCIONAMENTO",
+        "imagem_anexada": ""
+    },
+    {
+        "funcionario_1": "ANDREIA",
+        "funcionario_2": "FERNANDA",
+        "data_hora": "25/04/2025  10,48",
+        "parametros_maquina": {
+            "gantry": "N",
+            "colimador": {
+                "X1": "N",
+                "X2": "N",
+                "Y1": "N",
+                "Y2": "N"
+            },
+            "mesa_vert": "N",
+            "mesa_lat": "N",
+            "mesa_long": "N",
+            "mesa_angulo": "N"
+        },
+        "erro_principal": "OUTROS (DESCREVA ABAIXO)",
+        "observacao": "CQ DE PACIENTES DA TARDE",
+        "descricao_ocorrencia": "SEM PACIENTES",
+        "status_maquina": "EM FUNCIONAMENTO",
+        "imagem_anexada": ""
+    },
+    {
+        "funcionario_1": "ANDREIA",
+        "funcionario_2": "FERNANDA",
+        "data_hora": "05/05/2025 13:25",
+        "parametros_maquina": {
+            "gantry": "100",
+            "colimador": {
+                "X1": "N",
+                "X2": "N",
+                "Y1": "N",
+                "Y2": "N"
+            },
+            "mesa_vert": "N",
+            "mesa_lat": "N",
+            "mesa_long": "N",
+            "mesa_angulo": "N"
+        },
+        "erro_principal": "MLC",
+        "observacao": "MLC",
+        "descricao_ocorrencia": "MLC",
+        "status_maquina": "PARADA",
+        "imagem_anexada": ""
+    },
+    {
+        "funcionario_1": "marilda",
+        "funcionario_2": "rafael",
+        "data_hora": "07/05/2025 07:26",
+        "parametros_maquina": {
+            "gantry": "0",
+            "colimador": {
+                "X1": "10",
+                "X2": "10",
+                "Y1": "10",
+                "Y2": "10"
+            },
+            "mesa_vert": "20",
+            "mesa_lat": "0",
+            "mesa_long": "20",
+            "mesa_angulo": "0"
+        },
+        "erro_principal": "SISTEMA DE REFRIGERAÇÃO/AR CONDICIONADO",
+        "observacao": "fisico",
+        "descricao_ocorrencia": "foi passado para o fisico que abaixou o nivel de agua",
+        "status_maquina": "EM FUNCIONAMENTO",
+        "imagem_anexada": ""
+    },
+    {
+        "funcionario_1": "Rafa/Marilda",
+        "funcionario_2": "And/Fer",
+        "data_hora": "08/05/2025 10:33",
+        "parametros_maquina": {
+            "gantry": "262",
+            "colimador": {
+                "X1": "n",
+                "X2": "n",
+                "Y1": "n",
+                "Y2": "n"
+            },
+            "mesa_vert": "n",
+            "mesa_lat": "n",
+            "mesa_long": "n",
+            "mesa_angulo": "n"
+        },
+        "erro_principal": "MLC",
+        "observacao": "",
+        "descricao_ocorrencia": "D41 tolerance error",
+        "status_maquina": "EM FUNCIONAMENTO",
+        "imagem_anexada": ""
+    },
+    {
+        "funcionario_1": "ANDREIA",
+        "funcionario_2": "FERNANDA",
+        "data_hora": "13/05/2025 14:35",
+        "parametros_maquina": {
+            "gantry": "N",
+            "colimador": {
+                "X1": "N",
+                "X2": "N",
+                "Y1": "N",
+                "Y2": "N"
+            },
+            "mesa_vert": "N",
+            "mesa_lat": "N",
+            "mesa_long": "N",
+            "mesa_angulo": "N"
+        },
+        "erro_principal": "MONITORES/CPU/CAMERA/MICROFONE",
+        "observacao": "PERDA DE COMUNICAÇÃO",
+        "descricao_ocorrencia": "PERDA DE COMUNICAÇÃO",
+        "status_maquina": "PARADA",
+        "imagem_anexada": ""
+    },
+    {
+        "funcionario_1": "marilda",
+        "funcionario_2": "rafa",
+        "data_hora": "19/05/2025 08:19",
+        "parametros_maquina": {
+            "gantry": "90",
+            "colimador": {
+                "X1": "12,9",
+                "X2": "17,2",
+                "Y1": "0",
+                "Y2": "0"
+            },
+            "mesa_vert": "13,7",
+            "mesa_lat": "990,2",
+            "mesa_long": "131",
+            "mesa_angulo": "0"
+        },
+        "erro_principal": "OUTROS (DESCREVA ABAIXO)",
+        "observacao": "interlok HVCB",
+        "descricao_ocorrencia": "HVCB  AS 8 HORAS E 15 MINUTOS",
+        "status_maquina": "PARADA",
+        "imagem_anexada": ""
+    },
+    {
+        "funcionario_1": "Marilda",
+        "funcionario_2": "Rafael",
+        "data_hora": "22/05/2025 08:23",
+        "parametros_maquina": {
+            "gantry": "90",
+            "colimador": {
+                "X1": "5",
+                "X2": "5",
+                "Y1": "5",
+                "Y2": "5"
+            },
+            "mesa_vert": "19.8",
+            "mesa_lat": "988.5",
+            "mesa_long": "135.3",
+            "mesa_angulo": "0"
+        },
+        "erro_principal": "MLC",
+        "observacao": "Não especificou o erro no HyperTerminal mas estava travado em interlock MLC, mesmo apos reiniciar não voltou.",
+        "descricao_ocorrencia": "Não especificou o erro no HyperTerminal mas estava travado em interlock MLC, mesmo apos reiniciar não voltou.",
+        "status_maquina": "PARADA",
+        "imagem_anexada": ""
+    },
+    {
+        "funcionario_1": "ANDREIA",
+        "funcionario_2": "FERNANDA",
+        "data_hora": "04/06/2025 17:01",
+        "parametros_maquina": {
+            "gantry": "0",
+            "colimador": {
+                "X1": "0",
+                "X2": "0",
+                "Y1": "0",
+                "Y2": "0"
+            },
+            "mesa_vert": "0",
+            "mesa_lat": "0",
+            "mesa_long": "0",
+            "mesa_angulo": "0"
+        },
+        "erro_principal": "OUTROS (DESCREVA ABAIXO)",
+        "observacao": "PNP CONTROLE DO PORTAL COM DIFICULDADE DE CONEXAO",
+        "descricao_ocorrencia": "PNP CONTROLE DO PORTAL COM DIFICULDADE DE CONEXAO",
+        "status_maquina": "EM FUNCIONAMENTO",
+        "imagem_anexada": ""
+    },
+    {
+        "funcionario_1": "myla",
+        "funcionario_2": "franciele",
+        "data_hora": "06/06/2025 12:00",
+        "parametros_maquina": {
+            "gantry": "n",
+            "colimador": {
+                "X1": "n",
+                "X2": "n",
+                "Y1": "n",
+                "Y2": "n"
+            },
+            "mesa_vert": "n",
+            "mesa_lat": "n",
+            "mesa_long": "n",
+            "mesa_angulo": "n"
+        },
+        "erro_principal": "OUTROS (DESCREVA ABAIXO)",
+        "observacao": "Forno demorando mais que o normal para aquecer.",
+        "descricao_ocorrencia": "Forno demorando mais que o normal para aquecer.",
+        "status_maquina": "EM FUNCIONAMENTO",
+        "imagem_anexada": ""
+    },
+    {
+        "funcionario_1": "myla",
+        "funcionario_2": "carol",
+        "data_hora": "13/06/2025 11:18",
+        "parametros_maquina": {
+            "gantry": "n",
+            "colimador": {
+                "X1": "n",
+                "X2": "n",
+                "Y1": "n",
+                "Y2": "n"
+            },
+            "mesa_vert": "n",
+            "mesa_lat": "n",
+            "mesa_long": "n",
+            "mesa_angulo": "n"
+        },
+        "erro_principal": "MONITORES/CPU/CAMERA/MICROFONE",
+        "observacao": "Agenda",
+        "descricao_ocorrencia": "Agenda, carregamos o paciente e entrou outro, e foto de paciente alterada.",
+        "status_maquina": "PARADA",
+        "imagem_anexada": ""
+    }
+]
